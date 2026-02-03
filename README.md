@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Saieshwari715/febcodes2026/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Saieshwari715/febcodes2026/tree/master/0055-jump-game) |
+| [0088-merge-sorted-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0088-merge-sorted-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saieshwari715/febcodes2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saieshwari715/febcodes2026/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Saieshwari715/febcodes2026/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Saieshwari715/febcodes2026/tree/master/0055-jump-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
