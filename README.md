@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Saieshwari715/febcodes2026/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/Saieshwari715/febcodes2026/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Saieshwari715/febcodes2026/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Saieshwari715/febcodes2026/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0088-merge-sorted-array) |
@@ -71,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Saieshwari715/febcodes2026/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/Saieshwari715/febcodes2026/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
