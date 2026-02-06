@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Saieshwari715/febcodes2026/tree/master/0037-sudoku-solver) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saieshwari715/febcodes2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saieshwari715/febcodes2026/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saieshwari715/febcodes2026/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Saieshwari715/febcodes2026/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Saieshwari715/febcodes2026/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Saieshwari715/febcodes2026/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Saieshwari715/febcodes2026/tree/master/0055-jump-game) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Saieshwari715/febcodes2026/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Saieshwari715/febcodes2026/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Saieshwari715/febcodes2026/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Saieshwari715/febcodes2026/tree/master/0131-palindrome-partitioning) |
@@ -87,5 +90,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Saieshwari715/febcodes2026/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Saieshwari715/febcodes2026/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
