@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Saieshwari715/febcodes2026/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saieshwari715/febcodes2026/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Saieshwari715/febcodes2026/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Saieshwari715/febcodes2026/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Saieshwari715/febcodes2026/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Saieshwari715/febcodes2026/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/Saieshwari715/febcodes2026/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Saieshwari715/febcodes2026/tree/master/0435-non-overlapping-intervals) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Saieshwari715/febcodes2026/tree/master/0322-coin-change) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Saieshwari715/febcodes2026/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
