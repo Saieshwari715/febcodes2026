@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Saieshwari715/febcodes2026/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Saieshwari715/febcodes2026/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saieshwari715/febcodes2026/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Saieshwari715/febcodes2026/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Saieshwari715/febcodes2026/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Saieshwari715/febcodes2026/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Saieshwari715/febcodes2026/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Saieshwari715/febcodes2026/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Saieshwari715/febcodes2026/tree/master/0198-house-robber) |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2498-frog-jump-ii](https://github.com/Saieshwari715/febcodes2026/tree/master/2498-frog-jump-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Saieshwari715/febcodes2026/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
