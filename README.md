@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Saieshwari715/febcodes2026/tree/master/0037-sudoku-solver) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saieshwari715/febcodes2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saieshwari715/febcodes2026/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saieshwari715/febcodes2026/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Saieshwari715/febcodes2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/Saieshwari715/febcodes2026/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Saieshwari715/febcodes2026/tree/master/0435-non-overlapping-intervals) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0877-stone-game](https://github.com/Saieshwari715/febcodes2026/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saieshwari715/febcodes2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saieshwari715/febcodes2026/tree/master/1248-count-number-of-nice-subarrays) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0088-merge-sorted-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Saieshwari715/febcodes2026/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Sorting
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Saieshwari715/febcodes2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Saieshwari715/febcodes2026/tree/master/0435-non-overlapping-intervals) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Saieshwari715/febcodes2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2498-frog-jump-ii](https://github.com/Saieshwari715/febcodes2026/tree/master/2498-frog-jump-ii) |
 ## Combinatorics
 |  |
