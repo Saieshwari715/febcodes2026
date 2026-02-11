@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Saieshwari715/febcodes2026/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/Saieshwari715/febcodes2026/tree/master/0435-non-overlapping-intervals) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0766-toeplitz-matrix](https://github.com/Saieshwari715/febcodes2026/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/Saieshwari715/febcodes2026/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saieshwari715/febcodes2026/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saieshwari715/febcodes2026/tree/master/1248-count-number-of-nice-subarrays) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Saieshwari715/febcodes2026/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Saieshwari715/febcodes2026/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Saieshwari715/febcodes2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0766-toeplitz-matrix](https://github.com/Saieshwari715/febcodes2026/tree/master/0766-toeplitz-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
