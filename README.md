@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Saieshwari715/febcodes2026/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/Saieshwari715/febcodes2026/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saieshwari715/febcodes2026/tree/master/0930-binary-subarrays-with-sum) |
+| [1046-last-stone-weight](https://github.com/Saieshwari715/febcodes2026/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saieshwari715/febcodes2026/tree/master/1248-count-number-of-nice-subarrays) |
 | [2498-frog-jump-ii](https://github.com/Saieshwari715/febcodes2026/tree/master/2498-frog-jump-ii) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Saieshwari715/febcodes2026/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -166,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Saieshwari715/febcodes2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1046-last-stone-weight](https://github.com/Saieshwari715/febcodes2026/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
