@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Saieshwari715/febcodes2026/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/Saieshwari715/febcodes2026/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Saieshwari715/febcodes2026/tree/master/0131-palindrome-partitioning) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Saieshwari715/febcodes2026/tree/master/0345-reverse-vowels-of-a-string) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Saieshwari715/febcodes2026/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Saieshwari715/febcodes2026/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Saieshwari715/febcodes2026/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Saieshwari715/febcodes2026/tree/master/0877-stone-game) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Saieshwari715/febcodes2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-last-stone-weight](https://github.com/Saieshwari715/febcodes2026/tree/master/1046-last-stone-weight) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Saieshwari715/febcodes2026/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
