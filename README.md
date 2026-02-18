@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saieshwari715/febcodes2026/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Saieshwari715/febcodes2026/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Saieshwari715/febcodes2026/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Saieshwari715/febcodes2026/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Saieshwari715/febcodes2026/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/Saieshwari715/febcodes2026/tree/master/0322-coin-change) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Saieshwari715/febcodes2026/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Saieshwari715/febcodes2026/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Saieshwari715/febcodes2026/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Saieshwari715/febcodes2026/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saieshwari715/febcodes2026/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Saieshwari715/febcodes2026/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Saieshwari715/febcodes2026/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
