@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Saieshwari715/febcodes2026/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Saieshwari715/febcodes2026/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Saieshwari715/febcodes2026/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Saieshwari715/febcodes2026/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Saieshwari715/febcodes2026/tree/master/0051-n-queens) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Saieshwari715/febcodes2026/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Saieshwari715/febcodes2026/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Saieshwari715/febcodes2026/tree/master/0345-reverse-vowels-of-a-string) |
