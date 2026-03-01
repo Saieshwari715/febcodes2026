@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Saieshwari715/febcodes2026/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/Saieshwari715/febcodes2026/tree/master/0100-same-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Saieshwari715/febcodes2026/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/Saieshwari715/febcodes2026/tree/master/0322-coin-change) |
 ## Memoization
 |  |
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Saieshwari715/febcodes2026/tree/master/0258-add-digits) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Saieshwari715/febcodes2026/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Saieshwari715/febcodes2026/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
